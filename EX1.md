@@ -64,8 +64,9 @@ truncate table student;
 ### 5) Rename the student table to mystudent
 
 ### SQL QUERY: 
+```
 alter table student rename to mystudent;
-
+```
 
 ### OUTPUT:
 ![image](https://github.com/Aishwarya-sankar/F2_DBMS/assets/121418444/5c0207cf-d846-4bf2-a771-788ccaed64e5)
